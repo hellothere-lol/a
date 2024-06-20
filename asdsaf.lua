@@ -3687,12 +3687,10 @@ local function __0____O___()
     )
 end
 task.spawn(__0____O___)
-local function _0_____O___()
+
     local ______0_______0 = _0__0___["11b"]
     ______0_______0.Parent.Text = "KEY IS CRACKED_BY_TR"
-    )
-end
-task.spawn(_0_____O___)
+ 
 local function ________O___()
     local ______0_______0 = _0__0___["120"]
     ______0_______0.Parent.MouseButton1Down:Connect(
