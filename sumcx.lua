@@ -1,30 +1,4 @@
---[[
 
-_G.hatshats = [[
-_G.HatsLol = {
-["Right Arm"] = {
-{Texture = "18640914168", Mesh = "18640914129", Name = "Accessory (NoobRightArm)", Offset = CFrame.Angles(0, math.rad(90), 0)}
-},
-
-["Left Arm"] = {
-{Texture = "18640914168", Mesh = "18640914129", Name = "Accessory (NoobLeftArm)", Offset = CFrame.Angles(0, math.rad(90), 0)}
-},
-
-["Right Leg"] = {
-{Texture = "18640901676", Mesh = "18640901641", Name = "Accessory (NoobRightLeg)", Offset = CFrame.Angles(0, 0, 0)}
-},
-
-["Left Leg"] = {
-{Texture = "18640901676", Mesh = "18640901641", Name = "Accessory (NoobLeftLeg)", Offset = CFrame.Angles(0, 0, 0)}
-},
-
-["Torso"] = {
-{Texture = "18640899481", Mesh = "18640899369", Name = "Accessory (NoobTorso)", Offset = CFrame.identity}
-},
-}
-]]
-
-]]
 
 
 
