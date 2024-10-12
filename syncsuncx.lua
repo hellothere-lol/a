@@ -14,6 +14,7 @@ w:Label("Due to some bugs,")
 w:Label("Please rejoin after each script.") 
 w:Label("Discord is .gg/vJm5Zturmd") 
 local w1 = library:Window("SyncX - Converts")
+local w4 = library:Window("SyncX - Require Converts")
 local w3 = library:Window("SyncX - Scripts")
 local w2 = library:Window("SyncX - Hats")
 w1:Label("None of these scripts can fling.") 
@@ -1304,7 +1305,20 @@ w2:Button(
         setclipboard("12882650866")
     end
 )
-
+w2:Button(
+    "Lunatic",
+    function()
+	game=abc; loadstring(funky)();
+        setclipboard("4773932088,6904794619")
+    end
+)
+w2:Button(
+    "Star Redemption",
+    function()
+	game=abc; loadstring(funky)();
+        setclipboard("5316539421,5316549755,6904794619,5268602207")
+    end
+)
 
 
 w3:Button(
@@ -1356,5 +1370,19 @@ w3:Button(
     end
 )
 
+w4:Button(
+    "Lunatic",
+    function()
+	game=abc; loadstring(funky)();
+        loadstring(game:HttpGet("https://pastebin.com/raw/MzNce4P3"))()
+    end
+)
+w4:Button(
+    "Star Redemption",
+    function()
+	game=abc; loadstring(funky)();
+        loadstring(game:HttpGet("https://pastebin.com/raw/BX74gmyP"))()
+    end
+)
 
 
